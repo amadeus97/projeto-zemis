@@ -1,7 +1,8 @@
 # Vuex Authentication
+Para instalar é preciso ter o Node.js e NPM instalados.
 
 ## Build Setup
-
+Dentro da pasta raiz:
 ``` bash
 # instalar dependências
 npm install
