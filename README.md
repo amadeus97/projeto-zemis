@@ -1,4 +1,4 @@
-# Vuex Authentication
+# Desafio Zemis
 Para instalar é preciso ter o Node.js e NPM instalados.
 
 ## Build Setup
